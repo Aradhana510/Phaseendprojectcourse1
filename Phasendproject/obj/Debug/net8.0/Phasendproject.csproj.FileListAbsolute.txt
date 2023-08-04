@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\bin\Debug\net8.0\Phasendproject.exe
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\bin\Debug\net8.0\Phasendproject.deps.json
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\bin\Debug\net8.0\Phasendproject.runtimeconfig.json
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\bin\Debug\net8.0\Phasendproject.dll
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\bin\Debug\net8.0\Phasendproject.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.AssemblyInfo.cs
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.dll
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\refint\Phasendproject.dll
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\Phasendproject.genruntimeconfig.cache
+C:\Users\a\Desktop\Assesmentsdaily\Phasendproject\obj\Debug\net8.0\ref\Phasendproject.dll
